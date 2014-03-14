@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zhcy"
+  id="myeclipse.1386956813500"
+  context-root="/zhcy"
+  j2ee-spec="5.0"
+  archive="zhcy.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
